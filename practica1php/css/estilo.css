@@ -1,0 +1,30 @@
+/* 
+    Created on : 13-oct-2014, 10:02:45
+    Author     : MARTIN
+*/
+
+#divformulario {
+    width: 380px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+#formulario {
+    border: solid black;
+    width: 380px;
+    text-align: justify;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+th {
+    column-span: 3;
+}
+
